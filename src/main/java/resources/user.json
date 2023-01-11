@@ -1,0 +1,16 @@
+[ 
+	{
+		"username":"bryceone",
+		"password":"Model123", 
+		"vaccine": "INFLUENZA (STANDARD DOSE)",
+		"proxy":"JAYC DOSHIC (02/02/1999)",
+		"insurance":"Private/Commercial"
+	},
+	{ 
+		"username":"Inhome22",
+		"password":"Model123",
+		"vaccine": "INFLUENZA (STANDARD DOSE)", 
+		"proxy":"INHOME TWENTY (01/01/1980)",
+		"insurance":"Private/Commercial"
+	}
+]
